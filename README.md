@@ -15,7 +15,7 @@ Todo App made with React.
 ## Technologies used
 
 - React
-- Fort awesome
+- Font awesome
 - React flip move
 
 ## Functionalities
